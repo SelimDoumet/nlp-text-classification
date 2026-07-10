@@ -1,4 +1,4 @@
-# NLP Text Classification — 20 Newsgroups
+# NLP Text Classification - 20 Newsgroups
 
 A complete, from-scratch NLP pipeline for multi-class topic classification on ~3,750 posts from the 20 Newsgroups dataset, spanning four topics: hockey, baseball, medicine, and space.
 
@@ -38,4 +38,4 @@ Python, scikit-learn, NLTK, spaCy, gensim (LDA), pandas, matplotlib/seaborn, wor
 
 ## Author
 
-Selim Doumet — BSc Mathematics, Data Science option, Université Saint-Joseph de Beyrouth
+Selim Doumet BSc Mathematics, Data Science option, Université Saint-Joseph de Beyrouth
