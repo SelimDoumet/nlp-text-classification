@@ -2,7 +2,7 @@
 
 A complete, from-scratch NLP pipeline for multi-class topic classification on ~3,750 posts from the 20 Newsgroups dataset, spanning four topics: hockey, baseball, medicine, and space.
 
-**Best model: Logistic Regression on TF-IDF features — 92.8% accuracy, 92.7% macro F1** on held-out test data.
+**Best model: Logistic Regression on TF-IDF features - 92.8% accuracy, 92.7% macro F1** on held-out test data.
 
 ## Pipeline
 
